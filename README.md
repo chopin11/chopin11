@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chopin11&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
 
 
-- 👋 哈喽，我是肖邦，但不会弹钢琴
+- 👋 我是<font color=red>肖邦</font>，但不会弹钢琴
 - 👀 从事 Linux 系统开发
 - 🌱 双非菜鸡，自学转 IT，略懂点 C、Golang、Python
 - 💞️ 公众号：「编程修养」
