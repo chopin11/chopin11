@@ -11,7 +11,7 @@
 - 👀 自学转 IT，从事 Linux 系统开发
 - 🌱 略懂点 C、Golang、Python
 - 💞️ 公众号：「编程修养」
-- 📫 个人微信：「NetHongQiGong」交个朋友，相互吹捧
+- 📫 个人微信：「wx」交个朋友，相互吹捧
 
 <!---
 chopin11/chopin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
