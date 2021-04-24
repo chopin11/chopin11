@@ -10,8 +10,8 @@
 - 👋 我是**肖邦**，但不会弹钢琴
 - 👀 自学转 IT，从事 Linux 系统开发
 - 🌱 略懂点 C、Golang、Python
-- 💞️ 欢迎关注我的公众号**[编程修养](https://cdn.jsdelivr.net/gh/chopin11/image001/bcxy-000.jpeg)**
-- 📫 加我的个人**[微信](https://cdn.jsdelivr.net/gh/chopin11/image001/chopin_wx.jpeg)**，交流学习，相互吹捧
+- 💞️ 欢迎关注我的公众号 **[编程修养](https://cdn.jsdelivr.net/gh/chopin11/image001/bcxy-000.jpeg)**
+- 📫 加我的个人 **[微信](https://cdn.jsdelivr.net/gh/chopin11/image001/chopin_wx.jpeg)**，交流学习，相互吹捧
 
 <!---
 chopin11/chopin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
